@@ -104,18 +104,6 @@ CpfUtils.cpf_valido?("111.111.111-11") => # false
 "456983948".gerar_cpf_formatado => # "456.983.948-23"
 ```
 
-## Recomende
-
-Gostou dessa gem? Recomende-me no [Linkedin](https://www.linkedin.com/in/jackson-pires-a0832b14)!
-
-## Contribuindo
-
-1. Faça um Fork
-2. Crie um branch para a nova funcionalidade (`git checkout -b minha-nova-funcionalidade`)
-3. Faça o commit de suas alterações  (`git commit -am 'Adicionada nova funcionalidade'`)
-4. Faça um push da sua nova funconalidade (`git push origin minha-nova-funcionalidade`)
-5. Submeta uma nova Pull Request
-
 ## Dica
 
 Use ```rake console``` para iniciar uma sessão com o CpfUtils carreado. 
